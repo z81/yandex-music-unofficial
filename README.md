@@ -11,9 +11,9 @@ mac - [Intel](https://cdn.discordapp.com/attachments/952186654632857620/11080218
 [Apple silicon](https://cdn.discordapp.com/attachments/952186654632857620/1108021960740450414/unofficial_mac_arm64_1.0.6.dmg) <br>
 linux - [zip](https://cdn.discordapp.com/attachments/952186654632857620/1108021159154434129/linux-unpacked.zip) /
 [Snap](https://cdn.discordapp.com/attachments/952186654632857620/1108021590555373628/ynmusic_1.0.6_amd64.snap) /
-[AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108021613376581743/unofficial-1.0.6.AppImage)
-
-Дизайн на основе (Reactive@vc.ru)[https://vc.ru/design/624291-tak-silno-hotim-yandeks-muzyku-na-macos-chto-uzhe-zadizaynili-prilozhenie]
+[AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108021613376581743/unofficial-1.0.6.AppImage)<br>
+<br>
+Дизайн на основе [Пост на vc.ru от Reactive](https://vc.ru/design/624291-tak-silno-hotim-yandeks-muzyku-na-macos-chto-uzhe-zadizaynili-prilozhenie)
 
 # Отказ от ответственности
 
