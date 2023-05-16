@@ -13,6 +13,8 @@ linux - [zip](https://cdn.discordapp.com/attachments/952186654632857620/11080211
 [Snap](https://cdn.discordapp.com/attachments/952186654632857620/1108021590555373628/ynmusic_1.0.6_amd64.snap) /
 [AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108021613376581743/unofficial-1.0.6.AppImage)
 
+Дизайн на основе (Reactive@vc.ru)[https://vc.ru/design/624291-tak-silno-hotim-yandeks-muzyku-na-macos-chto-uzhe-zadizaynili-prilozhenie]
+
 # Отказ от ответственности
 
 Этот приложение была написано исключительно в ознакомительных целях и предоставляется по принципу "КАК ЕСТЬ", без каких-либо гарантий. Автор не несёт никакой ответственности за любой прямой или непрямой ущерб, который может быть следствием использования этого приложения. Вы используете это приложение на свой страх и риск.
