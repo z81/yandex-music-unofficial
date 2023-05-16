@@ -1,19 +1,16 @@
 # Неофициальный клиент для яндекс музыки
 
-![Preview](./preview2.png)
-![Preview](./preview.png)
-
-Текущая версия содержит минимум функционала и написана быстро, но надеюсь, что кому-то будет полезна. В будущем планируется добавить больше функционала если приложение будет пользоваться спросом.
-
-# Скачать
-
 windows - [Installer](https://cdn.discordapp.com/attachments/952186654632857620/1108029217263849534/unofficial_win_1.0.7.exe)<br>
 mac - [Intel](https://cdn.discordapp.com/attachments/952186654632857620/1108029178474922084/unofficial_mac_x64_1.0.7.dmg) /
 [Apple silicon](https://cdn.discordapp.com/attachments/952186654632857620/1108029151283253399/unofficial_mac_arm64_1.0.7.dmg) <br>
 linux - [zip](https://cdn.discordapp.com/attachments/952186654632857620/1108029364727185458/linux-unpacked.zip) /
 [Snap](https://cdn.discordapp.com/attachments/952186654632857620/1108029277758291998/ynmusic_1.0.7_amd64.snap) /
-[AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108029250717622312/unofficial-1.0.7.AppImage)<br>
-<br>
+[AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108029250717622312/unofficial-1.0.7.AppImage)
+![Preview](./preview/preview2.png)
+![Preview](./preview/preview.png)
+![Preview](./preview/preview3.png)
+
+<br> 
 Дизайн на основе [Пост на vc.ru от Reactive](https://vc.ru/design/624291-tak-silno-hotim-yandeks-muzyku-na-macos-chto-uzhe-zadizaynili-prilozhenie)
 
 # Сборка из исходников
