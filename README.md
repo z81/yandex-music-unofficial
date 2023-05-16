@@ -6,14 +6,11 @@
 
 # Скачать
 
-windows
-[installer](https://cdn.discordapp.com/attachments/952186654632857620/1108021801319153815/unofficial_win_1.0.6.exe)
-mac
-[Intel dmg](https://cdn.discordapp.com/attachments/952186654632857620/1108021843924897832/unofficial_mac_x64_1.0.6.dmg)
-[Apple silicon](https://cdn.discordapp.com/attachments/952186654632857620/1108021960740450414/unofficial_mac_arm64_1.0.6.dmg)
-linux
-[zip](https://cdn.discordapp.com/attachments/952186654632857620/1108021159154434129/linux-unpacked.zip)
-[Snap](https://cdn.discordapp.com/attachments/952186654632857620/1108021590555373628/ynmusic_1.0.6_amd64.snap)
+windows - [Installer](https://cdn.discordapp.com/attachments/952186654632857620/1108021801319153815/unofficial_win_1.0.6.exe)<br>
+mac - [Intel](https://cdn.discordapp.com/attachments/952186654632857620/1108021843924897832/unofficial_mac_x64_1.0.6.dmg) /
+[Apple silicon](https://cdn.discordapp.com/attachments/952186654632857620/1108021960740450414/unofficial_mac_arm64_1.0.6.dmg) <br>
+linux - [zip](https://cdn.discordapp.com/attachments/952186654632857620/1108021159154434129/linux-unpacked.zip) /
+[Snap](https://cdn.discordapp.com/attachments/952186654632857620/1108021590555373628/ynmusic_1.0.6_amd64.snap) /
 [AppImage](https://cdn.discordapp.com/attachments/952186654632857620/1108021613376581743/unofficial-1.0.6.AppImage)
 
 # Отказ от ответственности
