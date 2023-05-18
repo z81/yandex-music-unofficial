@@ -11,6 +11,7 @@ linux - [zip](https://cdn.discordapp.com/attachments/952186654632857620/11080293
 ![Preview](./preview/preview3.png)
 
 <br> 
+
 Дизайн на основе [Пост на vc.ru от Reactive](https://vc.ru/design/624291-tak-silno-hotim-yandeks-muzyku-na-macos-chto-uzhe-zadizaynili-prilozhenie)
 
 # Сборка из исходников
